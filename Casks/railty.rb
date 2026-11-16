@@ -1,6 +1,6 @@
 cask "railty" do
   version "0.1.0"
-  sha256 "7f6832a402981339f6f02a2d9421ac9b0482e6cd433cdefabf849ecbbd9ec245"
+  sha256 "1e6f289dc57a5dbff3ba863502dad1ac4f8b6f6e74fdd54ed805606cb7b2a339"
 
   url "https://github.com/vendettar/railty/releases/download/v#{version}/Railty-macos-arm64.zip"
   name "Railty"
