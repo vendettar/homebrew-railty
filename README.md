@@ -1,6 +1,6 @@
-# Homebrew tap for Railty
+# homebrew-railty
 
-This tap installs [Railty](https://github.com/vendettar/railty), a lightweight
+Homebrew tap for [Railty](https://github.com/vendettar/railty), a lightweight
 native macOS terminal with vertical tabs.
 
 ## Install
@@ -23,7 +23,9 @@ brew upgrade --cask railty
 brew uninstall --cask railty
 ```
 
-The Cask installs `Railty.app` only. It does not remove official Ghostty apps
-or their data.
+This only removes `Railty.app`. An official Ghostty installation and its
+data are never touched.
 
-Project homepage: https://github.com/vendettar/railty
+## Project
+
+<https://github.com/vendettar/railty>
