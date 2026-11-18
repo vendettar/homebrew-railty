@@ -1,7 +1,7 @@
 cask "railty" do
-  version "0.1.4"
-  sha256 "8a8fcfe9c51671c4bf657c4abe2c215ba9d669aee5e355bb1a64631368944028"
-  url "https://github.com/vendettar/railty/releases/download/v0.1.4/Railty-macos-arm64.zip"
+  version "0.1.5"
+  sha256 "2f89038e703ccc5cac6ff8f2774b33c2d2b857107574d5d00f2b5acbae3c5e0f"
+  url "https://github.com/vendettar/railty/releases/download/v0.1.5/Railty-macos-arm64.zip"
   name "Railty"
   desc "Lightweight native macOS terminal with vertical tabs"
   homepage "https://github.com/vendettar/railty"
